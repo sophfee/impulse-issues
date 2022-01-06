@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Bug report (Framework)
 about: Create a report to help us improve impulse
 title: ''
-labels: bug
+labels: bug framework
 assignees: urnotnick
 
 ---
