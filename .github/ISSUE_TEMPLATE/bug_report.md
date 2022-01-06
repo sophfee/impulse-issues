@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve impulse
 title: ''
 labels: bug
-assignees: vingard
+assignees: urnotnick
 
 ---
 
