@@ -3,7 +3,7 @@ name: Bug report (hl2rp)
 about: Only use this if the bug is found in the HL2RP server!
 title: ''
 labels: bug, hl2rp
-assignees: urnotnick
+assignees: Astrroo
 
 ---
 
