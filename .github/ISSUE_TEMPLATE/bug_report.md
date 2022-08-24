@@ -3,7 +3,7 @@ name: Bug report (Framework)
 about: Create a report to help us improve impulse
 title: ''
 labels: bug, framework
-assignees: urnotnick
+assignees: Astrroo
 
 ---
 
